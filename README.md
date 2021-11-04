@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KouidryM&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KouidryM&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KouidryM&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouidryM&hide=contribs,prs)
+
 
