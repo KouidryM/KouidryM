@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KouidryM&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KouidryM&theme=monokai)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouidryM&hide=contribs,prs)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kouidryM)](https://github.com/kouidryM/github-readme-stats)
+
 
 
